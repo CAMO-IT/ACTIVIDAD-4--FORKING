@@ -1,0 +1,7 @@
+ACTIVIDAD 4 - FORKING WORKFLOW
+
+Este repositorio será utilizado como repositorio principal para la práctica de Forking Workflow.
+
+Cada estudiante deberá realizar un Fork de este repositorio y trabajar únicamente dentro de su propia copia.
+
+No modificar directamente este repositorio principal.
