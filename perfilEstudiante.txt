@@ -4,3 +4,5 @@ Carrera: Ingeniería Informatica
 Semestre: 8vo semestre
 Materia: SIS 2420 Actualización Tecnologica
 Paralelo: "A"
+Gestor de versiones utilizado: Git
+Plataforma de repositorios: GitHub
