@@ -1,0 +1,6 @@
+DATOS DEL ESTUDIANTE
+Nombre completo: Miranda Cayoja Alejandro Oliverio
+Carrera: Ingeniería Informatica
+Semestre: 8vo semestre
+Materia: SIS 2420 Actualización Tecnologica
+Paralelo: "A"
