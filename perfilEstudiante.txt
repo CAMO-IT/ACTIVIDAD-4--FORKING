@@ -2,7 +2,8 @@ DATOS DEL ESTUDIANTE
 Nombre completo: Miranda Cayoja Alejandro Oliverio
 Carrera: Ingeniería Informatica
 Semestre: 8vo semestre
-Materia: SIS 2420 Actualización Tecnologica
+Materia: SIS 2420 
+Nombre de la materia: Actualización Tecnologica
 Paralelo: "A"
 Gestor de versiones utilizado: Git
 Plataforma de repositorios: GitHub
